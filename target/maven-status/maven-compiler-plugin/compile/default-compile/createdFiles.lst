@@ -1,0 +1,6 @@
+org/example/DecomposedBolt.class
+org/example/TrashBolt.class
+org/example/TweetSpout.class
+org/example/write_mood_origineBolt.class
+org/example/App.class
+org/example/CensorshipBolt.class
